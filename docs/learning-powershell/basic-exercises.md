@@ -129,7 +129,7 @@ False
 Write a short script named `summary.ps1` that:
 
 1. Lists all `.txt` files in the current folder.
-2. Displays the number of lines in each file.
+1. Displays the number of lines in each file.
 
 Save the script with a `.ps1` extension and run it with `./summary.ps1`. See [Create and Run PowerShell Scripts](create-powershell-scripts.md) for help.
 
